@@ -4,6 +4,8 @@
 
 ### Company Information
 - [Company Overview](./company-overview.md) - About Innov8tif, mission, and market position
+- [Branding Strategy 2025](./branding-strategy.md) - Product-first branding approach, EMAS eKYC positioning
+- [Website Revamp 2025](./website-revamp-2025.md) - Current website project, homepage structure, content strategy
 
 ### Core Products
 - [EMAS eKYC](./products/emas-ekyc.md) - Electronic Know Your Customer verification platform
